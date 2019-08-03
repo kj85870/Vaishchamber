@@ -1,0 +1,190 @@
+<resources>
+    <string name="app_name">Global Agra Vaish Chamber</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nameerror">Enter a valid name</string>
+    <string name="emailerror">Enter a valid email</string>
+    <string name="mobileerror">Enter a valid mobile</string>
+    <string name="dateerror">Enter a valid date</string>
+    <string name="ageerror">Enter a valid age</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_bottom_navigation">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="SearchYourLocation"><a href="https://www.google.com/maps/@20.9880135,82.7525294,5z">SearchYourLocation</a></string>
+
+
+    <string name="title_notifications">Notifications</string>
+    <string name="add_business">Add Business</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="search_title">Search Here</string>
+
+    <string name="hotel_price">₹ 1000</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="thousand_rs">₹1,000</string>
+    <string name="hundred_rs">₹500</string>
+    <string name="inr">₹</string>
+    <string name="hotel_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</string>
+    <string name="important_note_one">Guests can check in using any local or outstation ID proof(PAN card not accepted)</string>
+    <string name="important_note_two">Couples Friendly</string>
+    <string name="title_activity_login_register">LoginRegisterActivity</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="text_sign_in">Sign in</string>
+    <string name="text_forgot">Forgot?</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+
+    <string name="title_location_permission">Location Permission</string>
+    <string name="ok">OK</string>
+
+    <string name="text_location_permission">Allow permission to access this device location?</string>
+
+    <string name="hint_phone">Mobile Number</string>
+    <string name="hint_confirm_pass">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_msg">Join Hotel Karo</string>
+    <string name="sign_up_join_choice">Join Choice Privileges</string>
+    <string name="enter_your_password">Password*</string>
+    <string name="enter_your_email_id">Email*</string>
+    <string name="price_text">Price</string>
+    <string name="description">Description</string>
+    <string name="policy_amp_terms">Policy &amp; Terms</string>
+    <string name="ratings_and_reviews"><u>Rati</u>ngs &amp; Reviews</string>
+    <string name="check_in"><u>Check</u> in</string>
+    <string name="amenities">Amenities</string>
+    <string name="location">Location</string>
+    <string name="clean">Clean</string>
+    <string name="comfort">Comfort</string>
+    <string name="facilities">Facilities</string>
+    <string name="staff">Staff</string>
+    <string name="ratings">Ratings</string>
+    <string name="reviews"><u>Reviews</u></string>
+    <string name="locations">Location</string>
+    <string name="need_to_know"><u>Need</u> to know</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_bookings">My Bookings</string>
+    <string name="wishlist">WishList</string>
+    <string name="address">Address</string>
+    <string name="address2">Address 2</string>
+    <string name="city">City</string>
+    <string name="state_region">State/Region</string>
+    <string name="zip_code">Postal/Zip Code</string>
+    <string name="country">Country</string>
+    <string name="modify_dates">Modify Dates</string>
+    <string name="guest_details">Guest Info</string>
+    <string name="upload_your_id">Upload Your Id</string>
+    <string name="have_promo_code">Have a Promo Code ?</string>
+    <string name="apply">Apply</string>
+    <string name="enter_coupon_code">Enter Coupon Code</string>
+    <string name="payment_details">Price Details</string>
+    <string name="room_charges">Room Charges</string>
+    <string name="payment_taxes">GST on Room Charges</string>
+    <string name="discount">Total Discount</string>
+    <string name="total">Total</string>
+    <string name="continue_text">Continue</string>
+    <string name="book_this_hotel">Book this hotel</string>
+    <string name="review_booking">Review Booking</string>
+    <string name="check_out">Check-Out</string>
+    <string name="search_hotels">Search Hotels</string>
+    <string name="rooms">Rooms</string>
+    <string name="guests">Guests</string>
+    <string name="search_destination">Search Destination</string>
+    <string name="best_deals">Best Deals</string>
+    <string name="special_offer">Special Offer</string>
+    <string name="featured_hotels">Featured Hotels</string>
+    <string name="where_are_you_going">Top Destinations</string>
+    <string name="rooms_and_guests">Rooms and Guests</string>
+    <string name="enter_id_num">Enter Id number</string>
+    <string name="find_a_hotel">Find a Hotel</string>
+    <string name="adult">Adults</string>
+    <string name="children">Children</string>
+    <string name="transition_toolbar">toolbar</string>
+
+    <string-array name="rooms">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+    <string-array name="adults">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="children">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="filter">Filters</string>
+    <string name="apply_filter">Apply Filter</string>
+    <string name="max_22_000">max ₹22,000</string>
+    <string name="price_starts_from">Starts from</string>
+    <string name="search_for_hotel">Search for Hotel</string>
+    <string name="terms_of_use">Terms of Use</string>
+    <string name="privacy_policy">Privacy and Security Policy</string>
+    <string name="connect_the_world_through_the_power_of_hospitality">Connect the world through the power of hospitality</string>
+    <string name="about_us">We are providing the best and user friendly application to our customers, with extensive tools specially for online hotels booking, we also provide custom web solutions and services. With over 4 years of experience we have unquestionably won a reputation for being a trusted source, a reliable partner and an expert in the area of online travel business applications.<br></br>  The combination of our services, 24/5 nonstop support, our pricing, friendly way of conducting business, and our compassionate corporate philosophy is very unique in today\'s business world. We pride ourselves on exceptional customer service and strive to build lasting relationships with our customers by making it easy and profitable for them to do business with us.<br></br>     We value our clients and focus in customer satisfaction. That is why after-sale support is a key factor in our approach. With all this rich experience, now through  bound to meet customer satisfaction and establish trust.  If you are looking to enhance your online travel business, We functions as the best one stop solution with user friendly interface and such a great features with prices that match your budget.</string>
+    <string name="about_brands">With more than 6,800 hotels open in more than 35 countries and territories, we offer travelers a wide range of lodging options.</string>
+    <string name="explore_brands">Explore the brands of Hotel Karo</string>
+    <string name="customer_support_nums">Customer support phone numbers</string>
+    <string name="report_problem_text">Report a problem with the app</string>
+    <string name="phone_number">+123–456–789</string>
+    <string name="email_id">email@domain.com</string>
+    <string name="feedback_text">We value your feedback</string>
+    <string name="have_something_to_tell">Have something to tell us?</string>
+    <string name="write_comment">Write your comment here...</string>
+    <string name="personal_info">Personal Info</string>
+    <string name="favorite_hotels">Favorite Hotels</string>
+    <string name="logout">Logout</string>
+    <string name="join_hotel_karo">Join Hotel Karo</string>
+    <string name="privacy_agreement_text">By submitting yout personal information and agreeing to become Hotel Karo member, you agree to the
+        <a href="http://smartcorepvtltd.com/hotels/Privacy-Policy">Hotel Karo Program Rules and Regulations</a> available at HotelKaro.com, including your consent of our use of your information in accordance with the Rules and Regulations. Your personal information will be processed and retained by us in the United States. You are entitled to gain access to your personal information held by Hotel Karo.</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="join_now">Join Now! It\'s Free</string>
+    <string name="forgot_password">Forgot Email or Password?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="state">State</string>
+    <string-array name="topics">
+        <item>Select Topic</item>
+        <item>Comment on Your Stay</item>
+        <item>Mobile Site/App Comment</item>
+        <item>Technical</item>
+        <item>Customer Support</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

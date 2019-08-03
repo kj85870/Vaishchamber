@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_business"
+            android:icon="@drawable/three"
+            android:title="Business Listing"
+            android:iconTint="@color/Indigo"
+
+            />
+        <item
+            android:id="@+id/nav_support"
+            android:icon="@drawable/supporters"
+            android:title="Our Supporters" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/about"
+            android:title="About" />
+        <item
+            android:id="@+id/nav_listing"
+            android:icon="@drawable/addlist"
+            android:title="Add Listing" />
+    </group>
+
+    <item android:title="Exit">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/logouts"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>
